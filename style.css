@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrap {
+  width: 350px;
+  height: 500px;
+  background-color: #000000;
+}
