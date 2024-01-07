@@ -5,7 +5,82 @@ body {
   align-items: center;
 }
 .wrap {
-  width: 350px;
-  height: 500px;
+  width: 280px;
+  height: 460px;
   background-color: #000000;
+}
+.display {
+  margin: 30px 25px 5px 5px;
+  width: 245px;
+  height: 100px;
+  display: flex;
+  justify-content: flex-end;
+  color: #fff;
+  display: flex;
+  justify-content: flex-end;
+  align-items: end;
+  font-size: 50px;
+}
+.btns {
+  margin: 0px 5px;
+  height: 370px;
+}
+.btns_wrap {
+  display: flex;
+  justify-content: center;
+}
+.ac {
+  width: 170px;
+  height: 50px;
+  background-color: #a5a5a5;
+  padding: 20px 40px 20px 40px;
+  border: 1px solid #a5a5a5;
+  border-radius: 25px;
+  font-size: 25px;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.operator {
+  color: #fff;
+  background-color: #fd9f0b;
+  width: 50px;
+  height: 50px;
+  border: 1px solid #fd9f0b;
+  border-radius: 25px;
+  font-size: 25px;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.numBtn {
+  color: #fff;
+  background-color: #333;
+  width: 50px;
+  height: 50px;
+  border: 1px solid #333;
+  border-radius: 25px;
+  font-size: 25px;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#zero {
+  width: 110px;
+}
+#decimal {
+  color: #fff;
+  background-color: #333;
+  width: 50px;
+  height: 50px;
+  border: 1px solid #333;
+  border-radius: 25px;
+  font-size: 25px;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
